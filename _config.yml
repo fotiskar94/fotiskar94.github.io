@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: Fotis Karamplias webpage
+description: My webpage
+author: Fotis karamplias
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: fotiskar94@gmail.com
 
 plugins:
   - jekyll-seo-tag
